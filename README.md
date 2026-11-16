@@ -8,10 +8,10 @@ The game is free, but all donations will go towards helping me out and giving me
 
 
 Movement
-up_arrow - up
-down_arrow - down
-left_arrow - left
-right_arrow - right
+up_arrow - up;
+down_arrow - down;
+left_arrow - left;
+right_arrow - right;
 
 You can move on the diagonals as well by pressing 2 keys at the same time!
 
