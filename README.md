@@ -24,7 +24,3 @@ WARNING!!!111!!11!
 When installing Windows may show a smart screen protection screen. If you are uncomfortable with this, I am really sorry :C I am working on getting it signed or published in a game store. You may check yourself on software like virus total that it does not flag it as a virus. If you decide to procede just press execute anyways on the drop down menu after the warning.
 
 Have fun! And thank you for downloading!
-
-Patch Notes Ver. 0.2:
-
-- Added Hard & Lunatic mode! :D
